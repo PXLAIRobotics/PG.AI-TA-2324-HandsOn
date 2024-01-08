@@ -2,6 +2,24 @@
 
 ## Contents
 
+1. **Frameworks & libraries**
+   - **Data Exploration & Model Training**
+     - *Classical Machine Learning*
+     - *Deep Learning*
+   - **Visualizations**
+   - **Prototyping & Robotics**
+2. **The tools we are going to use for the hands-on**
+3. **Hands-on**
+   - **01: First steps**
+     - First Neural Network with Keras
+     - Credit Card Fraud
+   - **02: Optimizations via MNIST**
+   - **03: CNNs & Transfer Learning**
+     - Object detection, identification and transfer learning with YOLO
+     - CNN classifier
+   - **04: NLP (Next week)**
+
+
 ## Exercises
 ### 01. First steps
 * [01. First Neural Network with Keras](01.%20First%20Steps/01.%20First%20Neural%20Network%20with%20Keras.ipynb)  

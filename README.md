@@ -55,19 +55,19 @@ folder = "/content/drive/MyDrive/.../"
 ### Loss functions
 #### Classification
 **Binary classification**
-* Number of neurons in the output layer: 1
-* Activation function in the output layer: sigmoid
-* Loss function: binary_crossentropy (log loss)
+* Number of neurons in the output layer: `1`
+* Activation function in the output layer: `sigmoid`
+* Loss function: `binary_crossentropy` (log loss)
 
 **Multiclass classification**
-* Number of neurons in the output layer: number of classes
-* Activation function in the output layer: softmax
-* Loss function: categorical_crossentropy (n log loss)
+* Number of neurons in the output layer: `number of classes`
+* Activation function in the output layer: `softmax`
+* Loss function: `categorical_crossentropy` (n log loss)
 
 #### Regression
-* Number of neurons in the output layer: 1
-* Activation function in the output layer: linear
-* Loss function: mse or mae
+* Number of neurons in the output layer: `1`
+* Activation function in the output layer: `linear`
+* Loss function: `mse` or `mae`
 
 #### Complex outputs (i.e. YOLO)
 * Number of neurons in the output layer: <to_define>

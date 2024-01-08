@@ -35,3 +35,23 @@
 **03. CNNs & Transfer Learning**
 * [01. YOLO](03.%20CNNs%20_%20Transfer%20Learning/01.%20YOLO.ipynb)
 * [02. CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)
+
+## FAQ
+
+### Google Drive
+You can mount your Google Drive in Google Colab in the following way:
+
+```
+from google.colab import drive
+drive.mount('/content/drive')
+```
+
+And then access your folders like this:
+
+```
+folder = "/content/drive/MyDrive/.../"
+```
+
+### Loss functions
+#### Classification
+* binary_crossentropy (log loss): 

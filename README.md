@@ -15,5 +15,5 @@
 
 ## Demo notebooks
 ### 03. CNNs & Transfer Learning
-* [YOLO](03.%20CNNs%20_%20Transfer%20Learning/01.%20YOLO.ipynb)
-* [CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)
+* [01. YOLO](03.%20CNNs%20_%20Transfer%20Learning/01.%20YOLO.ipynb)
+* [02. CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)

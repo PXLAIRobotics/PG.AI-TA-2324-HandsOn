@@ -70,6 +70,6 @@ folder = "/content/drive/MyDrive/.../"
 * Loss function: `mse` or `mae`
 
 #### Complex outputs (i.e. YOLO)
-* Number of neurons in the output layer: <to_define>
-* Activation function in the output layer: <to_define>
-* Activation function in the output layer: <to_define>
+* Number of neurons in the output layer: `<to_define>`
+* Activation function in the output layer: `<to_define>`
+* Activation function in the output layer: `<to_define>`

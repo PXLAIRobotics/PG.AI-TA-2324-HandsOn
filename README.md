@@ -60,7 +60,7 @@ folder = "/content/drive/MyDrive/.../"
 * Loss function: `binary_crossentropy` (log loss)
 
 **Multiclass classification**
-* Number of neurons in the output layer: `number of classes`
+* Number of neurons in the output layer: `<num_classes>`
 * Activation function in the output layer: `softmax`
 * Loss function: `categorical_crossentropy` (n log loss)
 

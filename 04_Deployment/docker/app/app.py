@@ -34,6 +34,11 @@ seven = sevens[0]
 
 
 ### ACTUAL API ROUTES
+@app.route("/")
+def hello():
+    return "Go to <url>/keras or <url>/onnx to see the inference results"
+
+
 # API route to Keras model inference
 @app.route("/keras")
 def keras_inference():

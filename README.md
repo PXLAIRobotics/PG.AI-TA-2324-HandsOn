@@ -20,6 +20,11 @@
    - 04: NLP (Next week)
 
 
+## Development environments
+* TensorFlow: https://github.com/PXLAIRobotics/PXL_ML_Docker_v2.0_TensorFlow
+* PyTorch: https://github.com/PXLAIRobotics/PXL_ML_Docker_v2.0_PyTorch
+
+
 ## Exercises
 **01. First steps**
 * [01. First Neural Network with Keras](01.%20First%20Steps/01.%20First%20Neural%20Network%20with%20Keras.ipynb)  

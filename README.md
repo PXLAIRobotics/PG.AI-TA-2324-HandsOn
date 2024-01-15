@@ -31,6 +31,9 @@
 **03. CNNs & Transfer Learning**
 * [Traffic Signs Exercise](03.%20CNNs%20_%20Transfer%20Learning/Traffic%20Signs%20Exercise.md)
 
+**05. NLP**
+* [IMDb Sentiment Classification](05_NLP/03.%20basic_imdb_classifier_exercise.ipynb)
+
 ## Demo notebooks
 **03. CNNs & Transfer Learning**
 * [01. YOLO](03.%20CNNs%20_%20Transfer%20Learning/01.%20YOLO.ipynb)

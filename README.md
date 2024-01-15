@@ -17,7 +17,8 @@
    - 03: CNNs & Transfer Learning
      - Object detection, identification and transfer learning with YOLO
      - CNN classifier
-   - 04: NLP (Next week)
+   - 04: Deployment & MNIST Solution
+   - 05: NLP & LLMs
 
 
 ## Development environments
@@ -43,6 +44,8 @@
 **03. CNNs & Transfer Learning**
 * [01. YOLO](03.%20CNNs%20_%20Transfer%20Learning/01.%20YOLO.ipynb)
 * [02. CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)
+* [05. LLM Intro](05_NLP/01.%20Practical_example_with_LLMs.ipynb)
+* [05. LangChain](05_NLP/02.%20LangChain_Example.ipynb)
 
 ## FAQ
 

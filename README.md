@@ -47,6 +47,7 @@
      - CNN classifier
    - 04: Deployment & MNIST Solution
    - 05: NLP & LLMs
+   - 06: Unstructured Data & Classical ML (not included in class, but added as reference)
 
 
 ## Example exam questions
@@ -92,6 +93,8 @@
 * [02. CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)
 * [05. LLM Intro](05_NLP/01.%20Practical_example_with_LLMs.ipynb)
 * [05. LangChain](05_NLP/02.%20LangChain_Example.ipynb)
+* [06. Titanic - Structured Data](06_Structured_Data_Classical_ML/01.%20titanic_data_preprocessing.ipynb)
+* [06. Titanic - Structured Data](06_Structured_Data_Classical_ML/02.%20titanic_model_training.ipynb)
 
 ## FAQ
 

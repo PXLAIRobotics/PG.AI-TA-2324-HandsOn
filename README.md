@@ -1,5 +1,33 @@
 # Postgraduate: AI Technical Architect 2023-2024
 
+## Goals
+
+### Les 1
+- Begrijpen van het doel en de toepassingen van **NVIDIA CUDA**, inclusief de redenen voor zijn populariteit in computertechnologie.
+- Inzicht in **Google Colab**, inclusief de belangrijkste voordelen en beperkingen.
+- Analyseren van problemen gerelateerd aan imbalanced datasets in machine learning en mogelijke oplossingen.
+- Kennis van verschillende soorten **activatiefuncties** in de outputlaag van neurale netwerken en hun toepassingen.
+- Begrip van het doel en het belang van een **confusion matrix** in de evaluatie van classificatiemodellen.
+- Het belang van het plotten van **nauwkeurigheid (accuracy)** en **verlies (loss)** tijdens het trainingsproces van een model.
+- Begrijpen waarom en hoe **normalisatie** en **standaardisatie** worden toegepast in datavoorbereiding.
+- De voordelen van het **finetunen** van een bestaand model in plaats van een model vanaf nul opbouwen.
+
+### Les 2
+- Definiëren van de rol en het belang van een **AI-backend** in een systeemarchitectuur.
+- De voor- en nadelen van het gebruik van **pip** in Python voor package management en mogelijke verbeteringen.
+- Het begrijpen van de voordelen van het gebruik van **containers** in softwareontwikkeling en deployment.
+- Overwegen van redenen voor het ontwikkelen van AI-systemen in de **cloud**.
+- Uitleggen van de essentiële kenmerken van een **AI-model** en de verschillende benaderingen in modelontwerp.
+- Verschillende methoden voor het in productie brengen van AI-modellen en de overwegingen die daarbij komen kijken.
+- Kan uitleggen welke **meta-informatie** belangrijk is om bij te houden voor een serialized object (model).
+- Kan uitleggen hoe dit model aangesproken kan worden (bijvoorbeeld via een **web API**).
+- Kan uitleggen welke **metrieken** bij het aanspreken van een getraind model belangrijk zijn (response time, retrain time, confidence of prediction, etc.).
+- Kan uitleggen welke uitdagingen bestaan op het vlak van hard- en software in productie.
+- Kan uitleggen welke oplossingen bestaan voor de uitdagingen op hard- en software vlak (API, messaging, **ONNX**).
+- Kennis van **Retrieval-Augmented Generation (RAG)** en de toepassingen ervan in AI-modellen.
+- Inzicht in het gebruik en de relevantie van **vector databases** in Large Language Models (LLMs) en waarom ze van belang zijn.
+
+
 ## Contents
 
 1. **Frameworks & libraries**
@@ -19,7 +47,26 @@
      - CNN classifier
    - 04: Deployment & MNIST Solution
    - 05: NLP & LLMs
+   - 06: Unstructured Data & Classical ML (not included in class, but added as reference)
 
+
+## Example exam questions
+
+### Wat is belangrijk bij het trainen van een neuraal netwerk?
+- **a)** Het selecteren van een geschikte activatiefunctie voor de lagen.
+- **b)** Het kiezen van een passend aantal neuronen en lagen.
+- **c)** Het bepalen van een geschikte leersnelheid en optimalisatiemethode.
+- **d)** Het verzekeren van een gebalanceerde en representatieve dataset.
+- **e)** Alle bovenstaande opties.
+
+
+### Wat beschrijft het beste het doel van een AI-backend?
+- **a)** Het bieden van een gebruikersinterface voor AI-toepassingen.
+- **b)** Het opslaan van grote hoeveelheden data.
+- **c)** Het uitvoeren van de kernberekeningen en verwerking voor AI-toepassingen.
+- **d)** Het verzorgen van netwerkverbindingen voor AI-systemen.
+
+## [The questions with the answers](questionswithanswers.md)
 
 ## Development environments
 * TensorFlow: https://github.com/PXLAIRobotics/PXL_ML_Docker_v2.0_TensorFlow
@@ -46,6 +93,8 @@
 * [02. CNN Classifier](03.%20CNNs%20_%20Transfer%20Learning/02.%20demo_cnn_classifier.ipynb)
 * [05. LLM Intro](05_NLP/01.%20Practical_example_with_LLMs.ipynb)
 * [05. LangChain](05_NLP/02.%20LangChain_Example.ipynb)
+* [06. Titanic - Structured Data](06_Structured_Data_Classical_ML/01.%20titanic_data_preprocessing.ipynb)
+* [06. Titanic - Structured Data](06_Structured_Data_Classical_ML/02.%20titanic_model_training.ipynb)
 
 ## FAQ
 
